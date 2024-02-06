@@ -1,0 +1,35 @@
+.classname{
+    position: fixed;
+
+    display: flex;
+    display: inline;
+
+    display: inline-block;
+
+    visibility: auto;
+
+    overflow: scroll;
+
+    cursor: hand;
+
+    margin: 9px;
+    margin-top: 9px;
+    margin-bottom: 9px;
+
+    padding: 5px;
+    padding-top: 5px;
+    padding-bottom: 5%;
+
+    background: #000;
+    background-color: #878484;
+
+    color: #000;
+
+    color: #465;
+
+    border: 2px solid #000;
+
+    border: none;
+
+}
+
